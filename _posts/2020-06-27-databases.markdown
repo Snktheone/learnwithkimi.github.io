@@ -11,17 +11,6 @@ date:   2020-06-27 10:41:39 +0100
 * #### Setup
 
 
-features | edition 
------- | -----
-log shipping | enterprise
-log shipping | enterprise
-log shipping | enterprise
-log shipping | enterprise
-log shipping | enterprise
-log shipping | enterprise
-log shipping | enterprise
-
-
 
 
 
