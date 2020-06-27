@@ -1,6 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: post
+layout: posts 
+title:  "Posts on Databases"
+date:   2020-06-27 10:41:39 +0100
+categories: jekyll update
 ---
