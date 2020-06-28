@@ -21,10 +21,11 @@
 title: Learnwithkimi
 email: sarang@accedius.com
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: snktheone.github.io/learnwithkimi
 twitter_username: snktheone
 github_username:  snktheone
+linkedin_username: snktheone
 
 # Build settings
 theme: jekyll-theme-minimal

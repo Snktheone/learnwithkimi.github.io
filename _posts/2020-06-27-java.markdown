@@ -1,5 +1,5 @@
 ---
-layout: Blogs 
+layout: post 
 title:  "Java"
 date:   2020-06-27 10:41:39 +0100
 ---

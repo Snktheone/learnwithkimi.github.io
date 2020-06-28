@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Blogs from Kimi
+title: Blogs from Sarang
 ---
 
