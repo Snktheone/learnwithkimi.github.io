@@ -1,0 +1,62 @@
+---
+layout: post 
+title:  "Java Nio"
+date:   2020-07-13 10:00:00 +0100
+---
+
+## What is Java Nio ?
+Java Nio is Java Non-Blocking IO package which allows for reading and writing information from IO devices without having 
+any blocking or wait status , leading to optimized interactions
+
+
+## Components of Java Nio 
+
+* ### Channels
+All IO in NIO is via channels. Channels act as streams and we can "read" data from Channels into Buffers and "write" data from 
+ Buffers into Channels
+
+IO is managed via the following implementations
+
+     - Files 
+     - UDP/TCP
+
+Extending the above to NIO results in the following channel implementation 
+
+    - FileChannel
+    - DatagramChannel for UDP 
+    - SocketChannel for TCP
+    - ServerSocketChannel
+ 
+* ### Buffers
+
+Buffer is a placeholder in memory for data consumed from a channel or data which is about to be written back on the channel.
+Buffers take data from the IO devices, in form of primitive data type streams.
+
+Main type of primitive datatypes are
+
+    - Char
+    - Byte
+    - Double
+    - Integer
+    - Long
+    - Short
+    
+Extending the above for NIO
+
+    - CharBuffer
+    - ByteBuffer
+    - DoubleBuffer
+    - IntegerBuffer
+    - LongBuffer
+    - ShortBuffer
+
+
+* ### Selectors
+
+Selector allows a single thread to manage traffic coming from multiple channels. So effectively selector is the glue
+between the Channels and the Buffers and it binds the two on a single thread.
+
+
+
+
+
