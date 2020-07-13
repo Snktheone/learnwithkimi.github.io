@@ -32,7 +32,7 @@ Extending the above to NIO results in the following channel implementation
 Buffer is a placeholder in memory for data consumed from a channel or data which is about to be written back on the channel.
 Buffers take data from the IO devices, in form of primitive data type streams.
 
-Main type of primitive datatypes are
+Main type of primitive data-types are
 
     - Char
     - Byte
