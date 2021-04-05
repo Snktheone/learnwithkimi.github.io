@@ -4,9 +4,6 @@ title:  "Travelling to UK from India"
 date:   2021-04-05 15:30:00 
 ---
 
-Travelling to UK from India
------------
-
 ### The United Kingdom is taking steps to help stop the spread of COVID-19.
 
 ### India is currently not on the list of [exempt countries](https://www.gov.uk/guidance/coronavirus-covid-19-travel-corridors) 
@@ -25,7 +22,7 @@ Travelling to UK from India
 #### * If you quarantine in England, you may opt in to [Test to Release](https://www.gov.uk/guidance/coronavirus-covid-19-test-to-release-for-international-travel).
 #### * Failure to comply with these measures is a criminal offence and you could be fined. Please visit  gov.uk for detailed public health advice and requirements for entering the UK.
 
--------
+---
 
 
 
