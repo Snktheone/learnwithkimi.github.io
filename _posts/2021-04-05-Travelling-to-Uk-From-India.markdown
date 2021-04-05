@@ -11,9 +11,9 @@ Travelling to UK from India
 
 ### India is currently not on the list of [exempt countries](https://www.gov.uk/guidance/coronavirus-covid-19-travel-corridors) 
 
-### * Essential information to enter the UK
+### Essential information to enter the UK
 
-### British Airways has this detailed information which I think could help people who are in need to travel
+### British Airways has this detailed information which I think could help people who are in need of travel
 
 #### * All persons (including UK nationals and residents) arriving in the UK from outside the Common Travel Area must provide [proof of a negative COVID-19 test](https://www.gov.uk/guidance/coronavirus-covid-19-testing-for-people-travelling-to-england) taken within 3 days of departure to the UK.
 #### * To protect your health and others’, everyone must complete an [online passenger locator form](https://www.gov.uk/provide-journey-contact-details-before-travel-uk) before arrival in the United Kingdom.
@@ -25,7 +25,7 @@ Travelling to UK from India
 #### * If you quarantine in England, you may opt in to [Test to Release](https://www.gov.uk/guidance/coronavirus-covid-19-test-to-release-for-international-travel).
 #### * Failure to comply with these measures is a criminal offence and you could be fined. Please visit  gov.uk for detailed public health advice and requirements for entering the UK.
 
-
+-------
 
 
 
